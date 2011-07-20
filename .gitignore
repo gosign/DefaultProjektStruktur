@@ -1,0 +1,48 @@
+# Typo3 specific ignore rules can be 
+# found in htdocs/.gitignore
+
+# Ignore entire data folder contents
+data
+
+# Ignore entire htdocs
+htdocs
+
+# Miscellaneous #
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Added by gemignore. Snippet 'Global/OSX'
+.DS_Store
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Added by gemignore. Snippet 'Global/Linux'
+*~
+
+# KDE
+.directory
+
+# Ignore .bak files
+*.bak
+
+# Packages
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods (from github)
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
