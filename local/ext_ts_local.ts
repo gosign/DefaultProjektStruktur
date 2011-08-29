@@ -3,3 +3,6 @@
 # current server the page is running on, such as the baseURL
 
 # config.baseURL = http://CHANGEME
+
+# You may enable Queo-Speedup by default by setting the following option to "1"
+config.enableQueoSpeedup = 0
