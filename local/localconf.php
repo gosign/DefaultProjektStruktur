@@ -8,4 +8,7 @@ $typo_db_username = 'user';
 $typo_db_password = 'password';
 $typo_db_host = 'localhost';
 
+//$TYPO3_CONF_VARS['SYS']['sqlDebug'] = '1';
+//$TYPO3_CONF_VARS['SYS']['enableDeprecationLog'] = '1';
+
 ?>
