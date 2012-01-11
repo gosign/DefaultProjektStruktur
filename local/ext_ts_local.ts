@@ -4,5 +4,5 @@
 
 # config.baseURL = http://CHANGEME
 
-# You may enable Queo-Speedup by default by setting the following option to "1"
-config.enableQueoSpeedup = 0
+# You may disable Queo-Speedup by default by setting the following option to "0"
+config.enableQueoSpeedup = 1
